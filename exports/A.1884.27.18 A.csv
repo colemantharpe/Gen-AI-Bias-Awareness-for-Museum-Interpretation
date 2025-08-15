@@ -1,0 +1,62 @@
+token,labels
+long,['O']
+before,['O']
+sunglasses,['O']
+",",['O']
+snow,['O']
+##go,['O']
+##ggles,['O']
+were,['O']
+used,['O']
+all,['O']
+over,['O']
+the,['O']
+arctic,['O']
+.,['O']
+one,['O']
+of,['O']
+the,['O']
+dangers,['O']
+of,['O']
+hunting,['O']
+in,['O']
+the,['O']
+north,['O']
+is,"['O', 'I-STEREO']"
+the,['O']
+intense,['O']
+solar,['O']
+glare,"['O', 'I-STEREO']"
+reflecting,['O']
+off,"['O', 'I-STEREO']"
+the,['O']
+snow,['O']
+and,['I-STEREO']
+ice,['O']
+.,['O']
+this,['O']
+can,['O']
+cause,"['O', 'I-STEREO']"
+snow,['O']
+-,['O']
+blindness,['O']
+which,"['O', 'I-STEREO']"
+is,"['O', 'I-STEREO']"
+de,"['O', 'I-STEREO', 'B-UNFAIR', 'I-UNFAIR']"
+##bil,"['I-STEREO', 'I-UNFAIR']"
+##itating,"['O', 'I-STEREO', 'B-UNFAIR']"
+and,"['O', 'I-STEREO', 'I-UNFAIR']"
+dangerous,"['O', 'I-STEREO', 'I-UNFAIR']"
+.,['O']
+the,['O']
+small,['O']
+slits,['O']
+in,['O']
+the,['O']
+go,['O']
+##ggles,['O']
+cut,"['O', 'I-STEREO']"
+down,"['O', 'I-STEREO']"
+the,"['O', 'I-STEREO']"
+glare,"['O', 'I-STEREO']"
+.,['O']
