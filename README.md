@@ -3,6 +3,7 @@
 Software developed for the Futures Project in partial fulfilment of the requirements for the MSc Cultural Heritage Futures, The Univeristy of Edinburgh.
 
 Title: Exploring Generative AI in Museum Interpretation: Balancing Innovation with Bias Awareness
+
 Research question: How do Generative AI workflows (re)create biases in museum interpretation contexts?
 
 This repository is the second output of the Futures Project and can be read in conjunction with the report. The directories associated with this repository contain the codes used for data collection and analysis, compiled as Jupyter Notebooks. This file describes the workflow used in the paper, which consists of 4 sections:
