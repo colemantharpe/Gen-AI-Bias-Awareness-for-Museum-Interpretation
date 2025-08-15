@@ -1,4 +1,4 @@
-# HeritageTribalism_BigData
+# Generative AI Bias Awareness for Museum Interpretation
 
 Software developed for the Futures Project in partial fulfilment of the requirements for the MSc Cultural Heritage Futures, The Univeristy of Edinburgh.
 
